@@ -59,7 +59,7 @@ st.markdown("""
 
 # Sidebar
 with st.sidebar:
-    st.image("https://mncu.ac.id/Images/footer_logo.png", width=1000)
+    st.image("https://mncu.ac.id/Images/navbar_logo.png", width=200)
     st.title("Navigasi Kurikulum")
     
     menu = st.selectbox(
