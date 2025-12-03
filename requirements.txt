@@ -1,0 +1,6 @@
+# Core requirements only
+streamlit
+pandas
+plotly
+networkx
+openpyxl
