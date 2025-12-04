@@ -1,6 +1,19 @@
-# Core requirements only
+# Core dependencies
 streamlit
 pandas
 plotly
 networkx
 openpyxl
+numpy
+
+# Untuk export/import
+pyyaml
+python-docx
+reportlab  # Untuk PDF export
+
+# Untuk UI/UX
+pillow
+streamlit-option-menu
+
+# Untuk backup/restore
+watchdog
